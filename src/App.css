@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+.main {
+   color: orangered;
+   font-size: 80px;
+}
+.active {
+  color: orange;
+}
